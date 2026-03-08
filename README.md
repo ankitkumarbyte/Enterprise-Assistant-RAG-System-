@@ -8,7 +8,7 @@ A production-grade RAG (Retrieval-Augmented Generation) system for   knowledge m
 - **Multi-format Support**: PDF, DOCX, TXT, MD, CSV
 - **Smart Chunking**: Recursive and markdown-aware chunking
 - **Production Ready**: FastAPI, Docker, monitoring, caching
-- **  Features**: Source citations, relevance scoring, document management
+- **Features**: Source citations, relevance scoring, document management
 
 ## 🚀 Quick Start
 
